@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Name="Dune_MakeableDrugBase" ParentName="DrugBase" Abstract="True">
+    <recipeMaker>
+      <workSpeedStat>DrugSynthesisSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Cook</effectWorking>
+      <soundWorking>Recipe_CookMeal</soundWorking>
+    </recipeMaker>
+  </ThingDef>
+  <ThingDef ParentName="Dune_MakeableDrugBase">
+    <defName>Spice</defName>
+    <label>spice</label>
+    <description>The residual effect of the sandworm, spice is mysterious and effective. Fremen use it as an appetite suppresant. A side effect of the drug, beyond it's addictiveness, is coloring the eyes completely blue.</description>
+    <graphicData>
+      <texPath>Things/Items/Spice</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <rotatable>false</rotatable>
+    <statBases>
+      <MarketValue>100</MarketValue>
+      <Mass>0.003</Mass>
+      <WorkToMake>3500</WorkToMake>
+    </statBases>
+    <techLevel>Spacer</techLevel>
+    <recipeMaker>
+      <recipeUsers>
+        <li>SpiceRefinery</li>
+      </recipeUsers>
+    </recipeMaker>
+    <costList>
+      <RawSpice>25</RawSpice>
+    </costList>
+    <ingestible>
+      <foodType>Plant, Processed</foodType>
+      <joyKind>Chemical</joyKind>
+      <joy>0.4</joy>
+      <drugCategory>Social</drugCategory>
+      <preferability>NeverForNutrition</preferability>
+      <outcomeDoers>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>SpiceHigh</hediffDef>
+          <severity>1.0</severity>
+          <doToGeneratedPawnIfAddicted>true</doToGeneratedPawnIfAddicted>
+        </li>
+      </outcomeDoers>
+    </ingestible>
+    <comps>
+      <li Class="CompProperties_Drug">
+        <chemical>SpiceChem</chemical>
+        <addictiveness>0.70</addictiveness>
+        <needLevelOffset>1.00</needLevelOffset>
+        <listOrder>1010</listOrder>
+      </li>
+    </comps>
+  </ThingDef>
+  <HediffDef>
+    <defName>SpiceHigh</defName>
+    <hediffClass>HediffWithComps</hediffClass>
+    <label>spice</label>
+    <description>spice</description>
+    <defaultLabelColor>(1,1,0.5)</defaultLabelColor>
+    <scenarioCanAdd>true</scenarioCanAdd>
+    <maxSeverity>1.0</maxSeverity>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-0.1</severityPerDay>
+      </li>
+    </comps>
+    <stages>
+      <li>
+        <hungerRateFactor>0.2</hungerRateFactor>
+      </li>
+    </stages>
+  </HediffDef>
+  <ChemicalDef>
+    <defName>SpiceChem</defName>
+    <label>spice</label>
+    <addictionHediff>SpiceAddiction</addictionHediff>
+    <canBinge>false</canBinge>
+  </ChemicalDef>
+  <NeedDef ParentName="DrugAddictionNeedBase">
+    <defName>Chemical_Spice</defName>
+    <needClass>Need_Chemical</needClass>
+    <label>spice</label>
+    <description>Spice addiction is caused by continued use. Once the users eyes have turned blue, they are beyond return. However, spice addiction is often non lethal, and most living on worlds where it is produced do not suffer ill effects, as the residual spice is often scattered in the air.</description>
+    <listPriority>45</listPriority>
+    <fallPerDay>0.15</fallPerDay>
+  </NeedDef>
+  <HediffDef ParentName="AddictionBase">
+    <defName>SpiceAddiction</defName>
+    <hediffClass>Hediff_Addiction</hediffClass>
+    <label>spice need</label>
+    <description>spice need</description>
+    <causesNeed>Chemical_Spice</causesNeed>
+    <stages>
+      <li>
+        <label>unmet</label>
+        <painOffset>0.1</painOffset>
+        <lifeThreatening>false</lifeThreatening>
+        <capMods>
+          <li>
+            <capacity>Consciousness</capacity>
+            <setMax>0.9</setMax>
+          </li>
+        </capMods>
+      </li>
+    </stages>
+  </HediffDef>
+</Defs>

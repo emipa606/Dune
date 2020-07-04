@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchTabDef>
+    <defName>Dune</defName>
+    <label>Dune Technologies</label>
+  </ResearchTabDef>
+  <ResearchProjectDef>
+    <defName>FremenEarlyTech</defName>
+    <label>fremen tech</label>
+    <tab>Dune</tab>
+    <description>Learned ways of the Fremen. Adept at development of technology utilized from the scavenged parts of other technology. Firearms, Crysknife, and the Stillsuit.</description>
+    <baseCost>750</baseCost>
+    <techLevel>Medieval</techLevel>
+    <prerequisites>
+      <li>Smithing</li>
+    </prerequisites>
+    <researchViewX>0</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>FremenMidTech</defName>
+    <label>fremen mid tech</label>
+    <tab>Dune</tab>
+    <description>Learned ways of the Fremen. Improvements of the stillsuit including the mask, and sufficient knowledge to develop the basic spice refinery.</description>
+    <baseCost>1500</baseCost>
+    <techLevel>Medieval</techLevel>
+    <prerequisites>
+      <li>Smithing</li>
+      <li>FremenEarlyTech</li>
+    </prerequisites>
+    <researchViewX>1</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+</Defs>

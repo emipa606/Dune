@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ==================== Bleee ================================ -->
+  <SoundDef>
+    <defName>FremenRifle_Fire</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Things/FremenRifle_Fire</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>30.51151</min>
+          <max>42.93479</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1.14837</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>FremenCarbine_Fire</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Things/FremenCarbine_Fire</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>22.51151</min>
+          <max>42.93479</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1.14837</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>FremenWeirding_Fire</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Things/FremenWeirding_Fire</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>22.51151</min>
+          <max>42.93479</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1.14837</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+</Defs>

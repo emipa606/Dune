@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Fremen_Mask.label>fremen stillsuit mask</Fremen_Mask.label>
+  <Fremen_Mask.description>A facial apparatus designed to filter and recycle the water expelled whilst breathing. Without this apparatus, the stillsuit would only operate at around 80% efficiency.</Fremen_Mask.description>
+
+  <FremenStillsuit.label>stillsuit (fremen)</FremenStillsuit.label>
+  <FremenStillsuit.description>The Stillsuit was designed as a complete body filtration device. Several layers work together to recycle perspiration and bodily waste to preserve water. An efficient stillsuit will lose only a thimbelfull of water a day.</FremenStillsuit.description>
+
+  <FedaykinStillsuit.label>stillsuit (fedaykin)</FedaykinStillsuit.label>
+  <FedaykinStillsuit.description>The Stillsuit was designed as a complete body filtration device. Several layers work together to recycle perspiration and bodily waste to preserve water. An efficient stillsuit will lose only a thimbelfull of water a day. This stillsuit is slightly enhanced with additional armor plates for added combat effectiveness.</FedaykinStillsuit.description>
+
+
+</LanguageData>

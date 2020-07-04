@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="HatMakeableBase">
+    <defName>Fremen_Mask</defName>
+    <label>fremen stillsuit mask</label>
+    <description>A facial apparatus designed to filter and recycle the water expelled whilst breathing. Without this apparatus, the stillsuit would only operate at around 80% efficiency.</description>
+    <graphicData>
+      <texPath>Things/Uniforms/Hats/StillsuitMask</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costStuffCount>35</costStuffCount>
+    <tradeability>Sellable</tradeability>
+    <stuffCategories>
+      <li>Metallic</li>
+    </stuffCategories>
+    <statBases>
+      <WorkToMake>3500</WorkToMake>
+      <Mass>0.07</Mass>
+      <ArmorRating_Blunt>0.03</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.03</ArmorRating_Sharp>
+      <Insulation_Cold>10</Insulation_Cold>
+      <Insulation_Heat>20</Insulation_Heat>
+    </statBases>
+    <apparel>
+      <bodyPartGroups>
+        <li>FullHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Uniforms/Hats/StillsuitMask</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>FremenApparel</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>FremenStillsuit</defName>
+    <description>The Stillsuit was designed as a complete body filtration device. Several layers work together to recycle perspiration and bodily waste to preserve water. An efficient stillsuit will lose only a thimbelfull of water a day.</description>
+    <label>stillsuit (fremen)</label>
+    <recipeMaker>
+      <researchPrerequisite>ComplexClothing</researchPrerequisite>
+    </recipeMaker>
+    <graphicData>
+      <texPath>Things/Uniforms/Stillsuit/Stillsuit</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costStuffCount>80</costStuffCount>
+    <costList>
+      <Steel>25</Steel>
+      <Cloth>75</Cloth>
+    </costList>
+    <tradeability>Sellable</tradeability>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <statBases>
+      <MaxHitPoints>160</MaxHitPoints>
+      <WorkToMake>22000</WorkToMake>
+      <Mass>2.2</Mass>
+      <ArmorRating_Blunt>0.20</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.23</ArmorRating_Sharp>
+      <ArmorRating_Heat>0.25</ArmorRating_Heat>
+      <Insulation_Cold>20</Insulation_Cold>
+      <Insulation_Heat>45</Insulation_Heat>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>0.07</MoveSpeed>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+        <li>Legs</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Uniforms/Stillsuit/Stillsuit</wornGraphicPath>
+      <layers>
+        <li>OnSkin</li>
+      </layers>
+      <tags>
+        <li>FremenApparel</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>FedaykinStillsuit</defName>
+    <description>The Stillsuit was designed as a complete body filtration device. Several layers work together to recycle perspiration and bodily waste to preserve water. An efficient stillsuit will lose only a thimbelfull of water a day. This stillsuit is slightly enhanced with additional armor plates for added combat effectiveness.</description>
+    <label>stillsuit (fedaykin)</label>
+    <recipeMaker>
+      <researchPrerequisite>ComplexClothing</researchPrerequisite>
+    </recipeMaker>
+    <graphicData>
+      <texPath>Things/Uniforms/Fedaykin/FedaykinStillsuit</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costList>
+      <Steel>45</Steel>
+      <Cloth>85</Cloth>
+    </costList>
+    <tradeability>Sellable</tradeability>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <statBases>
+      <MaxHitPoints>160</MaxHitPoints>
+      <WorkToMake>22000</WorkToMake>
+      <Mass>2.2</Mass>
+      <ArmorRating_Blunt>0.35</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.33</ArmorRating_Sharp>
+      <ArmorRating_Heat>0.32</ArmorRating_Heat>
+      <Insulation_Cold>20</Insulation_Cold>
+      <Insulation_Heat>48</Insulation_Heat>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>0.05</MoveSpeed>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+        <li>Legs</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Uniforms/Fedaykin/FedaykinStillsuit</wornGraphicPath>
+      <layers>
+        <li>OnSkin</li>
+      </layers>
+      <tags>
+        <li>FremenFedaykinApparel</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+</Defs>
