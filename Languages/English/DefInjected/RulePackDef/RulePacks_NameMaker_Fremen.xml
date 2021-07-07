@@ -1,21 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <NamerSettlementFremen.rulePack.rulesStrings.0>name->[color] [tribalword] Sietch</NamerSettlementFremen.rulePack.rulesStrings.0>
-  <NamerSettlementFremen.rulePack.rulesStrings.1>name->[tribalword] Sietch</NamerSettlementFremen.rulePack.rulesStrings.1>
-  <NamerSettlementFremen.rulePack.rulesStrings.2>name->Sietch [tribalword]</NamerSettlementFremen.rulePack.rulesStrings.2>
-
-  <NamerFactionFremen.rulePack.rulesStrings.0>name->[color] [tribalword] Sietch</NamerFactionFremen.rulePack.rulesStrings.0>
-  <NamerFactionFremen.rulePack.rulesStrings.1>name->[tribalword] Sietch</NamerFactionFremen.rulePack.rulesStrings.1>
-  <NamerFactionFremen.rulePack.rulesStrings.2>name->Sietch [tribalword]</NamerFactionFremen.rulePack.rulesStrings.2>
-
-  <NamerPersonFremen.rulePack.rulesStrings.0>name->[tribalword] '[badassanimal]' [tribalword]</NamerPersonFremen.rulePack.rulesStrings.0>
-  <NamerPersonFremen.rulePack.rulesStrings.1>name->[color] [tribalword]</NamerPersonFremen.rulePack.rulesStrings.1>
-  <NamerPersonFremen.rulePack.rulesStrings.2>name->[tribalword] [tribalword]</NamerPersonFremen.rulePack.rulesStrings.2>
-  <NamerPersonFremen.rulePack.rulesStrings.3>name->[tribalword] [tribalword]</NamerPersonFremen.rulePack.rulesStrings.3>
-  <NamerPersonFremen.rulePack.rulesStrings.4>name->[tribalword] [animal]</NamerPersonFremen.rulePack.rulesStrings.4>
-  <NamerPersonFremen.rulePack.rulesStrings.5>name->[animal] [tribalword]</NamerPersonFremen.rulePack.rulesStrings.5>
-  <NamerPersonFremen.rulePack.rulesStrings.6>name->[color] [animal]</NamerPersonFremen.rulePack.rulesStrings.6>
-
-
+  <NamerSettlementFremen.rulePack.rulesStrings.0>name-&gt;[color] [tribalword] Sietch</NamerSettlementFremen.rulePack.rulesStrings.0>
+  <NamerSettlementFremen.rulePack.rulesStrings.1>name-&gt;[tribalword] Sietch</NamerSettlementFremen.rulePack.rulesStrings.1>
+  <NamerSettlementFremen.rulePack.rulesStrings.2>name-&gt;Sietch [tribalword]</NamerSettlementFremen.rulePack.rulesStrings.2>
+  <NamerFactionFremen.rulePack.rulesStrings.0>name-&gt;[color] [tribalword] Sietch</NamerFactionFremen.rulePack.rulesStrings.0>
+  <NamerFactionFremen.rulePack.rulesStrings.1>name-&gt;[tribalword] Sietch</NamerFactionFremen.rulePack.rulesStrings.1>
+  <NamerFactionFremen.rulePack.rulesStrings.2>name-&gt;Sietch [tribalword]</NamerFactionFremen.rulePack.rulesStrings.2>
+  <NamerPersonFremen.rulePack.rulesStrings.0>name-&gt;[tribalword] '[badassanimal]' [tribalword]</NamerPersonFremen.rulePack.rulesStrings.0>
+  <NamerPersonFremen.rulePack.rulesStrings.1>name-&gt;[color] [tribalword]</NamerPersonFremen.rulePack.rulesStrings.1>
+  <NamerPersonFremen.rulePack.rulesStrings.2>name-&gt;[tribalword] [tribalword]</NamerPersonFremen.rulePack.rulesStrings.2>
+  <NamerPersonFremen.rulePack.rulesStrings.3>name-&gt;[tribalword] [tribalword]</NamerPersonFremen.rulePack.rulesStrings.3>
+  <NamerPersonFremen.rulePack.rulesStrings.4>name-&gt;[tribalword] [animal]</NamerPersonFremen.rulePack.rulesStrings.4>
+  <NamerPersonFremen.rulePack.rulesStrings.5>name-&gt;[animal] [tribalword]</NamerPersonFremen.rulePack.rulesStrings.5>
+  <NamerPersonFremen.rulePack.rulesStrings.6>name-&gt;[color] [animal]</NamerPersonFremen.rulePack.rulesStrings.6>
 </LanguageData>

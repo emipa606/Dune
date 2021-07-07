@@ -1,12 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <SpiceHigh.label>spice</SpiceHigh.label>
   <SpiceHigh.description>spice</SpiceHigh.description>
-
   <SpiceAddiction.label>spice need</SpiceAddiction.label>
   <SpiceAddiction.description>spice need</SpiceAddiction.description>
   <SpiceAddiction.stages.0.label>unmet</SpiceAddiction.stages.0.label>
-
-
 </LanguageData>

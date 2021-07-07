@@ -1,14 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <FremenWarrior.label>fremen warrior</FremenWarrior.label>
   <FremenWarrior.labelPlural>fremen warriors</FremenWarrior.labelPlural>
-
   <FremenTrader.label>fremen tradere</FremenTrader.label>
   <FremenTrader.labelPlural>fremen traderes</FremenTrader.labelPlural>
-
   <FremenChief.label>naib</FremenChief.label>
   <FremenChief.labelPlural>naibs</FremenChief.labelPlural>
-
-
 </LanguageData>

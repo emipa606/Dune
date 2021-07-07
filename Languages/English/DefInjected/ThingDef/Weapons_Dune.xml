@@ -1,38 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Crysknife -->
-
   <FremenMelee_Crysknife.label>crysknife</FremenMelee_Crysknife.label>
   <FremenMelee_Crysknife.description>A traditional fremen weapon designed from the tooth of a sandworm.</FremenMelee_Crysknife.description>
   <FremenMelee_Crysknife.tools.0.label>handle</FremenMelee_Crysknife.tools.0.label>
   <FremenMelee_Crysknife.tools.1.label>point</FremenMelee_Crysknife.tools.1.label>
   <FremenMelee_Crysknife.tools.2.label>edge</FremenMelee_Crysknife.tools.2.label>
-
-
   <!-- Bullets -->
-
   <FremenBullet_Carbine.label>carbine bullet</FremenBullet_Carbine.label>
   <FremenBullet_Rifle.label>rifle bullet</FremenBullet_Rifle.label>
   <FremenBullet_Weirding.label>sonic</FremenBullet_Weirding.label>
-
-
   <!-- Rifle -->
-
   <FremenRifle.label>fremen bolt rifle</FremenRifle.label>
   <FremenRifle.description>Crude, rudimentary long rifle designed primarily for hunting, but often utilized in raids or defense.</FremenRifle.description>
-
-
   <!-- Carbine -->
-
   <FremenCarbine.label>fremen automatic carbine</FremenCarbine.label>
   <FremenCarbine.description>A synthesis of off-world technology integrated with a shortened fremen long rifle. This weapon has been adapted purely for combat, with an automatic trigger. Fremen ingenuity has created a compact, accurate automatic carbine.</FremenCarbine.description>
-
-
   <!-- Weirding -->
-
   <FedaykinWeirdingModule.label>fedaykin weirding module</FedaykinWeirdingModule.label>
   <FedaykinWeirdingModule.description>Originally introduced by off-world Great Houses, the weirding module is a device that amplifies and converts a users sound into an effective, highly lethal weapon.</FedaykinWeirdingModule.description>
-
-
 </LanguageData>

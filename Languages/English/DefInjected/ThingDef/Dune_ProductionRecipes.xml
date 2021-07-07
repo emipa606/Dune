@@ -1,11 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <RawSpice.label>raw spice</RawSpice.label>
   <RawSpice.description>Raw, unrefined spice. Littered with contaminants and other foreign material.</RawSpice.description>
-
   <SpiceRefinery.label>spice refinery</SpiceRefinery.label>
   <SpiceRefinery.description>A workbench equipped for refining spice melange.</SpiceRefinery.description>
-
-
 </LanguageData>
