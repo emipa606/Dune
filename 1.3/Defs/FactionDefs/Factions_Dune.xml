@@ -65,6 +65,7 @@
     <pawnsPlural>fremen</pawnsPlural>
     <settlementGenerationWeight>1</settlementGenerationWeight>
     <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
     <canMakeRandomly>true</canMakeRandomly>
     <canStageAttacks>true</canStageAttacks>
     <factionIconPath>World/WorldObjects/Expanding/Village</factionIconPath>
