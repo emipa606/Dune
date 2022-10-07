@@ -1,27 +1,18 @@
 # Dune
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of beans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=827966051
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/Dune]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 Updated to B18. Apologies for delay, wife is pregnant and that takes priority. :)
-Incorporating aspects from Frank Herbert&amp;apos;s excellent Sci Fi series, Dune.
+Incorporating aspects from Frank Herbert&apos;s excellent Sci Fi series, Dune.
 
 Forgive the silly sandworm drawing. :)
 
@@ -40,7 +31,7 @@ This initial release is designed as a testing bed to make sure the essentials ar
 -http://steamcommunity.com/sharedfiles/filedetails/?id=793443438]WWII Wehrmacht - German Faction
 -http://steamcommunity.com/sharedfiles/filedetails/?id=790242814]Napoleonic Age - France/Britain/Prussia
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 

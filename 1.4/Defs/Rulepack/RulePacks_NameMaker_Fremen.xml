@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RulePackDef>
+    <defName>NamerSettlementFremen</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>name-&gt;[color] [tribalword] Sietch</li>
+        <li>name-&gt;[tribalword] Sietch</li>
+        <li>name-&gt;Sietch [tribalword]</li>
+      </rulesStrings>
+      <rulesRaw>
+        <li Class="Rule_File">
+          <keyword>tribalword</keyword>
+          <path>Words/Foreign/Tribal</path>
+        </li>
+        <li Class="Rule_File">
+          <keyword>color</keyword>
+          <path>Words/Nouns/Colors</path>
+        </li>
+      </rulesRaw>
+    </rulePack>
+  </RulePackDef>
+  <RulePackDef>
+    <defName>NamerFactionFremen</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>name-&gt;[color] [tribalword] Sietch</li>
+        <li>name-&gt;[tribalword] Sietch</li>
+        <li>name-&gt;Sietch [tribalword]</li>
+      </rulesStrings>
+      <rulesRaw>
+        <li Class="Rule_File">
+          <keyword>tribalword</keyword>
+          <path>Words/Foreign/Tribal</path>
+        </li>
+        <li Class="Rule_File">
+          <keyword>color</keyword>
+          <path>Words/Nouns/Colors</path>
+        </li>
+      </rulesRaw>
+    </rulePack>
+  </RulePackDef>
+  <RulePackDef>
+    <defName>NamerPersonFremen</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>name-&gt;[tribalword] '[badassanimal]' [tribalword]</li>
+        <li>name-&gt;[color] [tribalword]</li>
+        <li>name-&gt;[tribalword] [tribalword]</li>
+        <li>name-&gt;[tribalword] [tribalword]</li>
+        <li>name-&gt;[tribalword] [animal]</li>
+        <li>name-&gt;[animal] [tribalword]</li>
+        <li>name-&gt;[color] [animal]</li>
+      </rulesStrings>
+      <rulesRaw>
+        <li Class="Rule_File">
+          <keyword>tribalword</keyword>
+          <path>Words/Foreign/Tribal</path>
+        </li>
+        <li Class="Rule_File">
+          <keyword>badassanimal</keyword>
+          <path>Words/Nouns/Animals_Badass</path>
+        </li>
+        <li Class="Rule_File">
+          <keyword>animal</keyword>
+          <path>Words/Nouns/Animals</path>
+        </li>
+        <li Class="Rule_File">
+          <keyword>color</keyword>
+          <path>Words/Nouns/Colors</path>
+        </li>
+      </rulesRaw>
+    </rulePack>
+  </RulePackDef>
+</Defs>
