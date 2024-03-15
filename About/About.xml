@@ -9,6 +9,7 @@
     <li>1.2</li>
     <li>1.3</li>
     <li>1.4</li>
+    <li>1.5</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
@@ -20,7 +21,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=827966051
 
 [table]
 	[tr]
-		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/Dune][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
     [tr]
@@ -44,7 +45,7 @@ This initial release is designed as a testing bed to make sure the essentials ar
 -- Spice. Granted, slightly overpowered. But, Frank Herbert basically made this drug overpowered in the Dune series as well. Designed to allow colonists to function in the extreme / desert environments. Suppresses hunger rate. Will be expanded in the future. Find raw spice in the desert, harvest it, and refine it, or buy it from Fremen Traders.
 
 
-[b]Interested in my other mods?[/]
+[b]Interested in my other mods?[/b]
 -[url=http://steamcommunity.com/sharedfiles/filedetails/?id=946260992]Borg Race/Faction - if you only want the Borg, select this mod. Do not run both star trek and borg mod. :)[/url]
 -[url=http://steamcommunity.com/sharedfiles/filedetails/?id=941839892]Star Trek Federation (Includes the borg race)[/url]
 -[url=http://steamcommunity.com/sharedfiles/filedetails/?id=808149207]WWII Red Army - Soviet Faction[/url]
@@ -55,11 +56,14 @@ This initial release is designed as a testing bed to make sure the essentials ar
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
-[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
 [*] For best support, please use the Discord-channel for error-reporting.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
+[*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
 [/list]
 
-</description>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2154017463][img]https://img.shields.io/github/v/release/emipa606/Dune?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]</description>
+  <modIconPath IgnoreIfNoMatchingField="True">ModIcon/Dune</modIconPath>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.0</modVersion>
 </ModMetaData>
