@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: spice need -->
+  <SpiceAddiction.label>spice need</SpiceAddiction.label>
+  <!-- EN: spice need -->
+  <SpiceAddiction.description>spice need</SpiceAddiction.description>
+  <!-- EN: unmet -->
+  <SpiceAddiction.stages.unmet.label>unmet</SpiceAddiction.stages.unmet.label>
+  <!-- EN: spice -->
+  <SpiceHigh.label>spice</SpiceHigh.label>
+  <!-- EN: spice -->
+  <SpiceHigh.description>spice</SpiceHigh.description>
+</LanguageData>

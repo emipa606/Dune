@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 2218567243
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8652f8064597179dcde0c9b9dce6dcea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8652f8064597179dcde0c9b9dce6dcea
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.Dune/Textures/Things/Items/Spice.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Stillsuit/Stillsuit_Male_north.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Stillsuit/Stillsuit_Hulk_north.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Stillsuit/Stillsuit_Female_Front.png
+- Assets/Data/Mlie.Dune/Textures/Things/Other/Shaihulud.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Stillsuit/Stillsuit_Thin_Front.png
+- Assets/Data/Mlie.Dune/Textures/Things/Items/SpiceRefinery.png
+- Assets/Data/Mlie.Dune/Sounds/Things/FremenRifle_Fire.ogg
+- Assets/Data/Mlie.Dune/Textures/Things/Weapons/Crysknife.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Fedaykin/FedaykinStillsuit_Hulk_Front.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Stillsuit/Stillsuit_Thin_east.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Fedaykin/FedaykinStillsuit_Thin_north.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Hats/StillsuitMask_north.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Fedaykin/FedaykinStillsuit_Male_north.png
+- Assets/Data/Mlie.Dune/Textures/Things/Projectiles/WeirdingBlast.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Stillsuit/Stillsuit_Female_north.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Stillsuit/Stillsuit_Fat_east.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Fedaykin/FedaykinStillsuit_Fat_north.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Stillsuit/Stillsuit_Male_east.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Fedaykin/FedaykinStillsuit_Male_Front.png
+- Assets/Data/Mlie.Dune/Textures/Things/Weapons/WeirdingModule.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Fedaykin/FedaykinStillsuit_Female_north.png
+- Assets/Data/Mlie.Dune/Textures/Things/Items/rawspice.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Fedaykin/FedaykinStillsuit_Thin_Front.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Fedaykin/FedaykinStillsuit_Hulk_east.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Hats/StillsuitMask.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Stillsuit/Stillsuit_Fat_north.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Fedaykin/FedaykinStillsuit_Thin_east.png
+- Assets/Data/Mlie.Dune/Textures/Things/Weapons/LongRifle.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Stillsuit/Stillsuit_Male_Front.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Fedaykin/FedaykinStillsuit_Fat_Front.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Stillsuit/Stillsuit.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Stillsuit/Stillsuit_Hulk_east.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Fedaykin/FedaykinStillsuit_Female_east.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Fedaykin/FedaykinStillsuit_Fat_east.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Fedaykin/FedaykinStillsuit_Male_east.png
+- Assets/Data/Mlie.Dune/Textures/Things/Items/RawSpiceHarvest.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Stillsuit/Stillsuit_Fat_Front.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Fedaykin/FedaykinStillsuit_Hulk_north.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Fedaykin/FedaykinStillsuit_Female_Front.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Stillsuit/Stillsuit_Hulk_Front.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Stillsuit/Stillsuit_Thin_north.png
+- Assets/Data/Mlie.Dune/Sounds/Things/FremenCarbine_Fire.ogg
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Hats/StillsuitMask_east.png
+- Assets/Data/Mlie.Dune/Sounds/Things/FremenWeirding_Fire.ogg
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Stillsuit/Stillsuit_Female_east.png
+- Assets/Data/Mlie.Dune/Textures/Things/Weapons/FremenCarbine.png
+- Assets/Data/Mlie.Dune/Sounds/Things/FremenWeirding_Fire - Copy.ogg
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Fedaykin/FedaykinStillsuit.png
+- Assets/Data/Mlie.Dune/Textures/Things/Uniforms/Hats/StillsuitMask_south.png
+Dependencies: []

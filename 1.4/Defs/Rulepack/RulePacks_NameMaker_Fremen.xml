@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <RulePackDef>
     <defName>NamerSettlementFremen</defName>
     <rulePack>
       <rulesStrings>
-        <li>name-&gt;[color] [tribalword] Sietch</li>
-        <li>name-&gt;[tribalword] Sietch</li>
-        <li>name-&gt;Sietch [tribalword]</li>
+        <li>name->[color] [tribalword] Sietch</li>
+        <li>name->[tribalword] Sietch</li>
+        <li>name->Sietch [tribalword]</li>
       </rulesStrings>
       <rulesRaw>
         <li Class="Rule_File">
@@ -24,9 +24,9 @@
     <defName>NamerFactionFremen</defName>
     <rulePack>
       <rulesStrings>
-        <li>name-&gt;[color] [tribalword] Sietch</li>
-        <li>name-&gt;[tribalword] Sietch</li>
-        <li>name-&gt;Sietch [tribalword]</li>
+        <li>name->[color] [tribalword] Sietch</li>
+        <li>name->[tribalword] Sietch</li>
+        <li>name->Sietch [tribalword]</li>
       </rulesStrings>
       <rulesRaw>
         <li Class="Rule_File">
@@ -44,13 +44,13 @@
     <defName>NamerPersonFremen</defName>
     <rulePack>
       <rulesStrings>
-        <li>name-&gt;[tribalword] '[badassanimal]' [tribalword]</li>
-        <li>name-&gt;[color] [tribalword]</li>
-        <li>name-&gt;[tribalword] [tribalword]</li>
-        <li>name-&gt;[tribalword] [tribalword]</li>
-        <li>name-&gt;[tribalword] [animal]</li>
-        <li>name-&gt;[animal] [tribalword]</li>
-        <li>name-&gt;[color] [animal]</li>
+        <li>name->[tribalword] '[badassanimal]' [tribalword]</li>
+        <li>name->[color] [tribalword]</li>
+        <li>name->[tribalword] [tribalword]</li>
+        <li>name->[tribalword] [tribalword]</li>
+        <li>name->[tribalword] [animal]</li>
+        <li>name->[animal] [tribalword]</li>
+        <li>name->[color] [animal]</li>
       </rulesStrings>
       <rulesRaw>
         <li Class="Rule_File">

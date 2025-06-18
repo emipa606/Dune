@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: refining -->
+  <DoBillsSpiceRefine.label>refining</DoBillsSpiceRefine.label>
+  <!-- EN: baking -->
+  <DoBillsSpiceRefine.gerund>baking</DoBillsSpiceRefine.gerund>
+  <!-- EN: craft -->
+  <DoBillsSpiceRefine.verb>craft</DoBillsSpiceRefine.verb>
+</LanguageData>

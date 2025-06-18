@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: stillsuit (fedaykin) -->
+  <FedaykinStillsuit.label>stillsuit (fedaykin)</FedaykinStillsuit.label>
+  <!-- EN: The Stillsuit was designed as a complete body filtration device. Several layers work together to recycle perspiration and bodily waste to preserve water. An efficient stillsuit will lose only a thimbelfull of water a day. This stillsuit is slightly enhanced with additional armor plates for added combat effectiveness. -->
+  <FedaykinStillsuit.description>The Stillsuit was designed as a complete body filtration device. Several layers work together to recycle perspiration and bodily waste to preserve water. An efficient stillsuit will lose only a thimbelfull of water a day. This stillsuit is slightly enhanced with additional armor plates for added combat effectiveness.</FedaykinStillsuit.description>
+  <!-- EN: fremen stillsuit mask -->
+  <Fremen_Mask.label>fremen stillsuit mask</Fremen_Mask.label>
+  <!-- EN: A facial apparatus designed to filter and recycle the water expelled whilst breathing. Without this apparatus, the stillsuit would only operate at around 80% efficiency. -->
+  <Fremen_Mask.description>A facial apparatus designed to filter and recycle the water expelled whilst breathing. Without this apparatus, the stillsuit would only operate at around 80% efficiency.</Fremen_Mask.description>
+  <!-- EN: stillsuit (fremen) -->
+  <FremenStillsuit.label>stillsuit (fremen)</FremenStillsuit.label>
+  <!-- EN: The Stillsuit was designed as a complete body filtration device. Several layers work together to recycle perspiration and bodily waste to preserve water. An efficient stillsuit will lose only a thimbelfull of water a day. -->
+  <FremenStillsuit.description>The Stillsuit was designed as a complete body filtration device. Several layers work together to recycle perspiration and bodily waste to preserve water. An efficient stillsuit will lose only a thimbelfull of water a day.</FremenStillsuit.description>
+</LanguageData>

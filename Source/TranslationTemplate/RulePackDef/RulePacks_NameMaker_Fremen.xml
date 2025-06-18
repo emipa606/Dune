@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: name->[color] [tribalword] Sietch -->
+  <NamerFactionFremen.rulePack.rulesStrings.0>name->[color] [tribalword] Sietch</NamerFactionFremen.rulePack.rulesStrings.0>
+  <!-- EN: name->[tribalword] Sietch -->
+  <NamerFactionFremen.rulePack.rulesStrings.1>name->[tribalword] Sietch</NamerFactionFremen.rulePack.rulesStrings.1>
+  <!-- EN: name->Sietch [tribalword] -->
+  <NamerFactionFremen.rulePack.rulesStrings.2>name->Sietch [tribalword]</NamerFactionFremen.rulePack.rulesStrings.2>
+  <!-- EN: name->[tribalword] '[badassanimal]' [tribalword] -->
+  <NamerPersonFremen.rulePack.rulesStrings.0>name->[tribalword] '[badassanimal]' [tribalword]</NamerPersonFremen.rulePack.rulesStrings.0>
+  <!-- EN: name->[color] [tribalword] -->
+  <NamerPersonFremen.rulePack.rulesStrings.1>name->[color] [tribalword]</NamerPersonFremen.rulePack.rulesStrings.1>
+  <!-- EN: name->[tribalword] [tribalword] -->
+  <NamerPersonFremen.rulePack.rulesStrings.2>name->[tribalword] [tribalword]</NamerPersonFremen.rulePack.rulesStrings.2>
+  <!-- EN: name->[tribalword] [tribalword] -->
+  <NamerPersonFremen.rulePack.rulesStrings.3>name->[tribalword] [tribalword]</NamerPersonFremen.rulePack.rulesStrings.3>
+  <!-- EN: name->[tribalword] [animal] -->
+  <NamerPersonFremen.rulePack.rulesStrings.4>name->[tribalword] [animal]</NamerPersonFremen.rulePack.rulesStrings.4>
+  <!-- EN: name->[animal] [tribalword] -->
+  <NamerPersonFremen.rulePack.rulesStrings.5>name->[animal] [tribalword]</NamerPersonFremen.rulePack.rulesStrings.5>
+  <!-- EN: name->[color] [animal] -->
+  <NamerPersonFremen.rulePack.rulesStrings.6>name->[color] [animal]</NamerPersonFremen.rulePack.rulesStrings.6>
+  <!-- EN: name->[color] [tribalword] Sietch -->
+  <NamerSettlementFremen.rulePack.rulesStrings.0>name->[color] [tribalword] Sietch</NamerSettlementFremen.rulePack.rulesStrings.0>
+  <!-- EN: name->[tribalword] Sietch -->
+  <NamerSettlementFremen.rulePack.rulesStrings.1>name->[tribalword] Sietch</NamerSettlementFremen.rulePack.rulesStrings.1>
+  <!-- EN: name->Sietch [tribalword] -->
+  <NamerSettlementFremen.rulePack.rulesStrings.2>name->Sietch [tribalword]</NamerSettlementFremen.rulePack.rulesStrings.2>
+</LanguageData>
